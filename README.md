@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**joanna-patternlab/joanna-patternlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Joanna 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build scalable UI systems.
+
+## 🔧 Focus
+- Design Systems
+- UI Components
+- Frontend Architecture
+
+## 🧩 Projects
+- GeoScope (in progress)
+- Subscription & Billing UI
+- PulseWork
+
+## 📫 Contact
+Coming soon
